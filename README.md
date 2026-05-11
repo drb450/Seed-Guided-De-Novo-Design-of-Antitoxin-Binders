@@ -52,7 +52,7 @@ Files too large for GitHub are deposited on Zenodo:
 | Archive | Description | Approx. size |
 |---|---|---|
 | `seed_pdbs.tar.gz` | 12,000 seed-guided RFdiffusion design PDBs (subsample) | ~3.5 GB |
-| `noseed_pdbs.tar.gz` | 12,003 control RFdiffusion design PDBs | ~3.5 GB |
+| `noseed_pdbs.tar.gz` | 12,000 control RFdiffusion design PDBs | ~3.5 GB |
 | `tmscore_matrix_ss.csv` | All-vs-all TM-score matrix, seed-guided set | 1.24 GB |
 | `tmscore_matrix_rfdc.csv` | All-vs-all TM-score matrix, RFdiffusion control | 0.95 GB |
 | `DB1_bound_unbound_300K_stripped.xtc` | REMD trajectory, DB1 (300 K, stripped) | 240 MB |
