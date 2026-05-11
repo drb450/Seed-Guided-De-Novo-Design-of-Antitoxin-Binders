@@ -35,7 +35,7 @@ that can engage challenging interface sites.
 DMS_analysis/             Deep mutational scanning analysis (DB2_DMS_260114)
 REMD_analysis/            Replica-exchange MD analysis scripts & summaries
 (full trajectories on Zenodo)
-library_analysis/         Aggregate library-level analysis (SwanSeeds pipeline)
+library_analysis/         Aggregate library-level analysis (Computatoinally filtered design analysis)
 library_pdbs/             Per-design PDB structures of the full library (~1,400)
 library_backbones/        Backbone-only PDBs of the full library
 seed_vs_noseed_analysis/  Comparison scripts/CSVs for seed-guided vs control
