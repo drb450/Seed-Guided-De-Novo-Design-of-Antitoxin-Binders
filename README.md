@@ -47,7 +47,7 @@ on Zenodo)
 Files too large for GitHub are deposited on Zenodo:
 
 > Britton, D. *et al.* (2026). *Data for: Seed-Guided De Novo Design of
-> Antitoxin Protein Binders.* Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Antitoxin Protein Binders.* Zenodo. https://doi.org/10.5281/zenodo.20115610
 
 | Archive | Description | Approx. size |
 |---|---|---|
